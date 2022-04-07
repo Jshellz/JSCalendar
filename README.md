@@ -1,1 +1,2 @@
 # JSCalendar
+Easy Calendar
